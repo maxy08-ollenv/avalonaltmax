@@ -69,20 +69,6 @@
         ],
         [
                 {"type": 1, "anim": "earth_fwd"},
-                {"type": 0, "text": "Did you know that WebGL (user) posted NSFW?"},
-                {"type": 1, "anim": "earth_back"},
-                {"type": 1, "anim": "grin_fwd"},
-                {"type": 1, "anim": "grin_back"}
-        ],
-        [
-                {"type": 1, "anim": "earth_fwd"},
-                {"type": 0, "text": "WebGL (user) is a raged kiddie."},
-                {"type": 1, "anim": "earth_back"},
-                {"type": 1, "anim": "grin_fwd"},
-                {"type": 1, "anim": "grin_back"}
-        ],
-        [
-                {"type": 1, "anim": "earth_fwd"},
                 {"type": 0, "text": "Sida is bad."},
                 {"type": 1, "anim": "earth_back"},
                 {"type": 1, "anim": "grin_fwd"},
